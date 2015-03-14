@@ -9,3 +9,7 @@ respuesta 2.2
 pregunta 2.3
 
 respuesta 2.3
+
+pregunta 2.4
+
+respuesta 2.4
